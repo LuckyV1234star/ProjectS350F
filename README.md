@@ -12,7 +12,7 @@ The version will be shown if it is available
 Set your directory to the code folder
 
 Enter: npm start
-The program will run and access with http://localhost:3000
+The program will run and access with http://localhost:3000 in your browser
 
 The Baggage Tracking in Security.ejs is currently a dummy page, please ignore
 
