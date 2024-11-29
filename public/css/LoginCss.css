@@ -36,11 +36,11 @@ body {
 
 
 #account {
-    background-image: url('/graphics/user.png'); /* Replace with your account icon path */
+    background-image: url('/graphics/user.png'); 
 }
 
 #password {
-    background-image: url('/graphics/lock.png'); /* Replace with your password icon path */
+    background-image: url('/graphics/lock.png');
 }
 
 .input-group {
